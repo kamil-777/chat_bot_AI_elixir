@@ -151,7 +151,7 @@ Ten projekt to konsolowa aplikacja napisana w języku Elixir, umożliwiająca za
 
 ## Testowanie
 
-Uruchom wszystkie testy jednostkowe:
+Uruchomenie wszystkich testów jednostkowych:
 
 ```bash
 mix test
