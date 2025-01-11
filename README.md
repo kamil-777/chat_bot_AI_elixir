@@ -16,26 +16,26 @@ Ten projekt to konsolowa aplikacja napisana w języku Elixir, umożliwiająca za
 
 ## Instalacja
 
-1. Sklonuj repozytorium:
+1. Sklonowanie repozytorium:
 
    ```bash
    git clone https://github.com/<twoje-repozytorium>/chat_bot_AI_elixir.git
    cd chat_bot_AI_elixir
    ```
 
-2. Zainstaluj zależności projektu:
+2. Zainstalowana zależności projektu:
 
    ```bash
    mix deps.get
    ```
 
-3. Uruchom serwer Ollama w osobnym terminalu:
+3. Uruchomienie serwer Ollama w osobnym terminalu:
 
    ```bash
    ollama serve
    ```
 
-4. Uruchom interaktywną konsolę Elixir:
+4. Uruchomienie interaktywną konsolę Elixir:
 
    ```bash
    iex -S mix
@@ -165,12 +165,7 @@ Projekt stworzony przez Kamil Kwiek. Jeśli masz pytania lub sugestie, napisz na
 
 ---
 
-## Licencja
-
-Ten projekt jest dostępny na licencji MIT. Szczegóły znajdują się w pliku `LICENSE`.
-
-
-================================================================================================================================
+=========================================================================================================================================================
 
 
 # Chatbot
